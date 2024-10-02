@@ -1,13 +1,13 @@
-<div style="align-items: center;">
-### Olá, me chamo Vinicius Rocha 😁
+<div align="center">
+<h1 style="color:blue;"> Olá, me chamo Vinicius Rocha 😁 </h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-rocha-330b352a7)
 
 ![ViniR GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniR159&show_icons=true&theme=tokyonight)
 
-### Linguagens que busco me profissionalizar no momento.
+# Linguagens que busco me profissionalizar no momento.
 
-<div style="align-items: center;">
+<div>
   <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />

@@ -1,5 +1,8 @@
 <div align="center">
 <h1 style="color:blue;"> Olá, me chamo Vinicius Rocha 😁 </h1>
+<h3>Sou um programador junior sonho em ser senior, e estou cursando uma faculdade de Engenharia de Software, logo espero participar de grandes projetos equipes, onde poderemos trabalhar juntos para solucionar problemas de forma criativa e profissional.</h3>
+
+<h2>E minha carreira está só começando 😎</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-rocha-330b352a7)
 

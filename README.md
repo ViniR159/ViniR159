@@ -3,10 +3,19 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-rocha-330b352a7)
 
+
+
+
 ![ViniR GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniR159&show_icons=true&theme=tokyonight)
 
-# Linguagens que busco me profissionalizar no momento.
+<br>
+<br>
+<br>
 
+# Linguagens que busco me profissionalizar no momento.
+<br>
+<br>
+<br>
 <div>
   <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -14,6 +23,8 @@
   <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
+<br>
+<br>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)

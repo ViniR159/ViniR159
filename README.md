@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h1 style="color:blue;"> Bem-vindo ao meu perfil! Me chamo Vinicius Rocha, um desenvolvedor junior, apaixonado por resolver problemas com criatividade e tecnologia. 😁 </h1>
 <h3>Sou um programador junior e sonho em ser um programador senior, estou cursando o segundo semestre da faculdade de Engenharia de Software, e logo espero participar de grandes projetos em equipe, onde poderemos trabalhar juntos para solucionar problemas de forma criativa e profissional.</h3>
 
@@ -41,13 +41,14 @@
 
 ---
 
-## 📫 Vamos conversar?  
+## 📫 Contatos?  
 
-- **Email:** [seuemail@email.com]  
+- **Email:** [vinir5245@gmail.com]  
 - **LinkedIn:** [linkedin.com/in/seulinkedin](#)  
 
 ✨ **Sempre em busca de novas oportunidades e desafios!** 
-
+</div>
+<div align="center">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-rocha-330b352a7)
 
 

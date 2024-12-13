@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 Meus projetos  
+## 🎯 Alguns dos meus projetos  
 - **[Campe Delle Massa]([https://github.com/ViniR159/campe-delle-massa](https://github.com/ViniR159/Campe-Delle-Massa))**  
   Sistema para organizar e gerenciar campeonatos locais.  
 

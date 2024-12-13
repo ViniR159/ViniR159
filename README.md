@@ -41,13 +41,14 @@
 
 ---
 
-## 📫 Contatos?  
+## 📫 Contatos  
 
 - **Email:** [vinir5245@gmail.com]  
 - **LinkedIn:** [linkedin.com/in/seulinkedin](#)  
-
-✨ **Sempre em busca de novas oportunidades e desafios!** 
 </div>
+
+---
+
 <div align="center">
 
 

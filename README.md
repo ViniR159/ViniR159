@@ -49,8 +49,6 @@
 ✨ **Sempre em busca de novas oportunidades e desafios!** 
 </div>
 <div align="center">
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-rocha-330b352a7)
-
 
 
 

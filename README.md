@@ -24,13 +24,13 @@
 ---
 
 ## 🎯 Meus projetos  
-- **[Campe Delle Massa](https://github.com/ViniR159/campe-delle-massa)**  
+- **[Campe Delle Massa]([https://github.com/ViniR159/campe-delle-massa](https://github.com/ViniR159/Campe-Delle-Massa))**  
   Sistema para organizar e gerenciar campeonatos locais.  
 
-- **[Pedra, Papel e Tesoura](https://github.com/ViniR159/pedra-papel-tesoura)**  
+- **[Pedra, Papel e Tesoura]([https://github.com/ViniR159/pedra-papel-tesoura](https://github.com/ViniR159/Pedra-papel-e-tesoura-Console))**  
   Jogo clássico implementado como um exercício de lógica de programação.  
 
-- **[Controle de Gastos](https://github.com/ViniR159/control-expenses-api)**  
+- **[Controle de Gastos]([https://github.com/ViniR159/control-expenses-api](https://github.com/ViniR159/Controle-de-gastos))**  
   Ferramenta para gerenciar finanças pessoais e acompanhar despesas. 
 
 ---
@@ -49,7 +49,7 @@
 ✨ **Sempre em busca de novas oportunidades e desafios!** 
 </div>
 <div align="center">
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-rocha-330b352a7)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-rocha-330b352a7)
 
 
 

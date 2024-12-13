@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="color:blue;"> Olá, me chamo Vinicius Rocha 😁 </h1>
+<h1 style="color:blue;"> Bem-vindo ao meu perfil! Me chamo Vinicius Rocha, um desenvolvedor junior, apaixonado por resolver problemas com criatividade e tecnologia. 😁 </h1>
 <h3>Sou um programador junior e sonho em ser um programador senior, estou cursando o segundo semestre da faculdade de Engenharia de Software, e logo espero participar de grandes projetos em equipe, onde poderemos trabalhar juntos para solucionar problemas de forma criativa e profissional.</h3>
 
 <h2>E minha carreira está só começando 😎</h2>

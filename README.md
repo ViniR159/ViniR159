@@ -43,7 +43,7 @@
 
 ## 📫 Contatos  
 
-- **Email:** [vinir5245@gmail.com]  
+- **Email:** vinir5245@gmail.com  
 - **LinkedIn:** [linkedin.com/in/seulinkedin](#)  
 </div>
 

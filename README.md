@@ -1,8 +1,7 @@
 <div>
-<h1 style="color:blue;"> Bem-vindo ao meu perfil! Me chamo Vinicius Rocha, um desenvolvedor junior, apaixonado por resolver problemas com criatividade e tecnologia. 😁 </h1>
-<h3>Sou um programador junior e sonho em ser um programador senior, estou cursando o segundo semestre da faculdade de Engenharia de Software, e logo espero participar de grandes projetos em equipe, onde poderemos trabalhar juntos para solucionar problemas de forma criativa e profissional.</h3>
-
-<h2>E minha carreira está só começando 😎</h2>
+<h1 style="color:blue;"> Bem-vindo ao meu perfil! Me chamo Vinicius Rocha, um desenvolvedor back-end, sempre optando por resolver problemas com criatividade e tecnologia. </h1>
+<h3>Estou em busca de uma vaga de estágio ou até Junior para por em pratica junto a uma equipe em um ambiente profissional.</h3>
+<h3> No momento, estou cursando o sexto semestre da faculdade de Engenharia de Software de forma EAD, enquanto foco em aprender e desenvolver habilidades especificamente em Python, Kotlin e Java.</h3>
 
 ## 🚀 Sobre mim  
 
@@ -10,8 +9,8 @@
   Atualmente cursando o 6º semestre na Cruzeiro do Sul.  
 
 - 🔧 **Habilidades Técnicas**  
-  - Linguagens: Python, Java, Kotlin, JavaScript, HTML, CSS.  
-  - Tecnologias e Ferramentas: NetBeans, Visual Studio Code, Metodologia Ágil (Scrum), JFrame.  
+  - Linguagens Principais: Python, Java, Kotlin, JavaScript, HTML, CSS. 
+  - Tecnologias e Ferramentas: SQL, APIs, NetBeans, Visual Studio Code, Metodologia Ágil (Scrum).  
 
 - 📈 **Interesses em Desenvolvimento**  
   - **Back-end:** APIs e lógica de programação.  
@@ -24,20 +23,14 @@
 ---
 
 ## 🎯 Alguns dos meus projetos  
-- **[Campe Delle Massa]([https://github.com/ViniR159/campe-delle-massa](https://github.com/ViniR159/Campe-Delle-Massa))**  
-  Sistema para organizar e gerenciar campeonatos locais.  
+- **[Descarte Correto]([https://github.com/ViniR159/Descarte_Correto](https://github.com/ViniR159/Descarte_Correto))**  
+  Um app que transforma o descarte do lixo em jogo interativo e divertido.. 
 
 - **[Pedra, Papel e Tesoura]([https://github.com/ViniR159/pedra-papel-tesoura](https://github.com/ViniR159/Pedra-papel-e-tesoura-Console))**  
   Jogo clássico implementado como um exercício de lógica de programação.  
 
-- **[Controle de Gastos]([https://github.com/ViniR159/control-expenses-api](https://github.com/ViniR159/Controle-de-gastos))**  
-  Ferramenta para gerenciar finanças pessoais e acompanhar despesas. 
-
----
-
-## 🕹️ Paixões além do código  
-- Sou fã de jogos de ação e corrida, especialmente da franquia Sonic. 🌀  
-- Procuro inspiração na criação de soluções criativas, tanto no trabalho quanto no lazer.  
+- **[Pokémon Battle]([https://github.com/ViniR159/Pokemon-Battle](https://github.com/ViniR159/Pokemon-Battle))**  
+  Um jogo que simula batalhas interativas usando Apis.
 
 ---
 
@@ -64,10 +57,8 @@
 <br>
 <br>
 <div>
-  <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img style="height: 5em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 </div>
 <br>

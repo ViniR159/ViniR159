@@ -7,7 +7,7 @@
 ## 🚀 Sobre mim  
 
 - 🎓 **Estudante de Engenharia de Software**  
-  Atualmente cursando o 3º semestre na Cruzeiro do Sul.  
+  Atualmente cursando o 6º semestre na Cruzeiro do Sul.  
 
 - 🔧 **Habilidades Técnicas**  
   - Linguagens: Python, Java, Kotlin, JavaScript, HTML, CSS.  

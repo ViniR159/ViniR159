@@ -1,5 +1,6 @@
 <div>
-<h1 style="color:blue;"> Bem-vindo ao meu perfil! Me chamo Vinicius Rocha, um desenvolvedor back-end, sempre optando por resolver problemas com criatividade e tecnologia. </h1>
+<h1 style="color:blue;"> Olá, seja bem-vindo </h1>
+<h3> Me chamo Vinicius Rocha, um desenvolvedor Back-end, sempre optando por resolver problemas com criatividade e tecnologia.</h3>
 <h3>Estou em busca de uma vaga de estágio ou até Junior para por em pratica junto a uma equipe em um ambiente profissional.</h3>
 <h3> No momento, estou cursando o sexto semestre da faculdade de Engenharia de Software de forma EAD, enquanto foco em aprender e desenvolver habilidades especificamente em Python, Kotlin e Java.</h3>
 

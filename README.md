@@ -45,10 +45,6 @@
 
 <div align="center">
 
-
-
-![ViniR GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniR159&show_icons=true&theme=tokyonight)
-
 <br>
 <br>
 <br>
